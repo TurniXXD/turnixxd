@@ -11,8 +11,8 @@
 <a title="Git"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></a>
 <a title="GitHub"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></a>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=turnixxd&show_icons=true&theme=cobalt)
-[![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=turnixxd&show_icons=true&theme=prussian)
+[![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Main projects
