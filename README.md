@@ -3,22 +3,31 @@
 
 ## Techstack
 <a title="JavaScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
-<a title="Python"><img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></a>
-<a title="Arch Linux"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg"></a>
+<a title="TypeScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"></a>
+<a title="TypeScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg"></a>
+<a title="Python"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"></a>
+<a title="GNU/Linux"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></a>
+<a title="Arch Linux"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg"></a>
+<a title="React.js"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></a>
 <a title="Bash"><img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></a>
 <a title="Git"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></a>
 <a title="GitHub"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></a>
-
+<a title="npm"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg"></a>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=turnixxd&show_icons=true&theme=prussian)
 [![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://app.daily.dev/turnix"><img src="https://api.daily.dev/devcards/a3c8da95f5e44cbc82ab8439bddc3e89.png?r=hcu" width="150" alt="Jakub Vantuch's Dev Card"/></a>
-
+<br>
+<a href="https://app.daily.dev/turnix"><img src="https://api.daily.dev/devcards/a3c8da95f5e44cbc82ab8439bddc3e89.png?r=hcu" height="350" alt="Jakub Vantuch's Dev Card"/></a>
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350">
 
 ## Main projects
 - [Orexin Solutions](https://github.com/Orexin)
 - [POJFM](https://pojfm.cz/)
 
 ## Contact me
-- :mailbox: **[vantuchj@orexin.cz](mailto:vantuchj@orexin.cz)**
+- :mailbox: **[contact@vantuch.dev](mailto:contact@vantuch.dev)**
 - :mailbox: **[Telegram](https://t.me/turnix)**
+
+<div align="center" gap="5px">
+  Currently employed part time <br><br><a href="https://www.prorocketeers.com/"><img height="25" src="https://www.prorocketeers.com/images/prorocketeers_logo_horizontal_cut.svg"></a>
+</div>
