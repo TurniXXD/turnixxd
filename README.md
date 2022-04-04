@@ -17,8 +17,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=turnixxd&show_icons=true&theme=prussian)
 [![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<a href="https://app.daily.dev/turnix"><img src="https://api.daily.dev/devcards/a3c8da95f5e44cbc82ab8439bddc3e89.png?r=hcu" height="350" alt="Jakub Vantuch's Dev Card"/></a>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350">
 
 ## Main projects
 - [Orexin Solutions](https://github.com/Orexin)
@@ -29,5 +27,5 @@
 - :mailbox: **[Telegram](https://t.me/turnix)**
 
 <div align="center" gap="5px">
-  Currently employed part time <br><br><a href="https://www.prorocketeers.com/"><img height="25" src="https://www.prorocketeers.com/images/prorocketeers_logo_horizontal_cut.svg"></a>
+  Currently employed part time at <br><br><a href="https://www.prorocketeers.com/"><img height="25" src="https://www.prorocketeers.com/images/prorocketeers_logo_horizontal_cut.svg"></a>
 </div>
