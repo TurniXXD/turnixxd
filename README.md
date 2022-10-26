@@ -27,5 +27,5 @@
 - :mailbox: **[Telegram](https://t.me/turnix)**
 
 <div align="center" gap="5px">
-  Currently employed part time at <br><br><a href="https://www.prorocketeers.com/"><img height="25" src="https://www.prorocketeers.com/images/prorocketeers_logo_horizontal_cut.svg"></a>
+  Currently employed at <br><br><a href="https://www.prorocketeers.com/"><img height="25" src="https://www.prorocketeers.com/images/prorocketeers_logo_horizontal_cut.svg"></a>
 </div>
