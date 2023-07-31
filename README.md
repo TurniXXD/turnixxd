@@ -14,7 +14,6 @@
 <a title="GitHub"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></a>
 <a title="npm"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg"></a>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=turnixxd&show_icons=true&theme=prussian)
 [![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
