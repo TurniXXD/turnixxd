@@ -19,12 +19,7 @@
 
 ## Main projects
 - [Orexin Solutions](https://github.com/Orexin)
-- [POJFM](https://pojfm.cz/)
 
 ## Contact me
 - :mailbox: **[contact@vantuch.dev](mailto:contact@vantuch.dev)**
 - :mailbox: **[Telegram](https://t.me/turnix)**
-
-<div align="center" gap="5px">
-  Currently employed at <br><br><a href="https://www.prorocketeers.com/"><img height="25" src="https://www.prorocketeers.com/images/prorocketeers_logo_horizontal_cut.svg"></a>
-</div>
