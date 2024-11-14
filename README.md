@@ -17,7 +17,7 @@
 [![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-# Main projects
+## Main projects
 - **[Revizio](https://revizio.app/)**
 
 ## Contact me
