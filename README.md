@@ -1,5 +1,5 @@
 # Jakub Vantuch
-### I'm web-dev maniac and great worshiper of linux technologies from Czech Republic. 
+### I'm web-dev maniac from Czech Republic. 
 
 ## Techstack
 <a title="JavaScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
@@ -16,9 +16,6 @@
 
 [![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-## Main projects
-- [Orexin Solutions](https://github.com/Orexin)
 
 ## Contact me
 - :mailbox: **[contact@vantuch.dev](mailto:contact@vantuch.dev)**
