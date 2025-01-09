@@ -15,6 +15,9 @@
 [![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turnixxd&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+<a title="codewars" href="https://www.codewars.com/users/TurniXXD"><img height="25" src="https://www.codewars.com/users/TurniXXD/badges/small"></a>
+<br>
+
 ## Main projects
 - **[Revizio](https://revizio.app/)**
 
