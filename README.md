@@ -1,19 +1,46 @@
 # Jakub Vantuch
-### I'm web-dev maniac from Czech Republic. 
+Building production systems used by thousands of users across multiple projects.
 
-## Techstack
-<a title="JavaScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></a>
-<a title="TypeScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg"></a>
-<a title="TypeScript"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg"></a>
-<a title="GNU/Linux"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"></a>
-<a title="React.js"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></a>
-<a title="Bash"><img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></a>
-<a title="Git"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></a>
-<a title="GitHub"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></a>
-<a title="npm"><img height="25" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg"></a>
+## 🛠 Tech stack
+- Next.js / React / TypeScript
+- Node.js / Python / Go
+- PostgreSQL
+- Docker
 
-<br>
+## 🚀 What I do
+- Build internal admin systems and dashboards
+- Develop SaaS and custom tools
+- Work with data-heavy apps (CMS, APIs, integrations)
+- Automate workflows and backend processes
+
+## 🏢 Projects I've contributed to
+- [robe](https://www.robe.cz)
+  - Large-scale CMS-driven website
+  - Refactored frontend architecture to improve maintainability and scalability
+- [kinedok](https://kinedok.net)
+  - International event platform
+  - Improved application structure and increased platform stability
+- [revizio](https://www.revizio.app)
+  - SaaS platform for revision management
+  - Built template editor and frontend architecture for custom workflows
+- [my213](https://www.my213.cz/)
+  - Internal system, web and mobile app
+  - Implemented UI components, handled complex data flows, and integrated Bank iD authorization
+- [Ondrášek](https://www.ondrasek.cz/)
+  - Presentation web and CMS
+  - Developed frontend and integrated CMS content structure
+- [seedr](https://www.prorocketeers.com/startups/seedr)
+  - Web application
+  - Implemented frontend logic and API integrations
+
+
+## Currently
+- Open to part-time roles and freelance projects
+- Building custom tools and SaaS MVPs
 
 ## Contact me
-- :mailbox: **[contact@vantuch.dev](mailto:contact@vantuch.dev)**
-- :mailbox: **[Telegram](https://t.me/turnix)**
+- **[contact@vantuch.dev](mailto:contact@vantuch.dev)**
+- **[LinkedIn](https://www.linkedin.com/in/jakub-vantuch/)**
+- **[Telegram](https://t.me/turnix)**
+
+👉 [Schedule a call to discuss your project](https://calendly.com/jakubvantuch/free-consultation-call)
