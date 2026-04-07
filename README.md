@@ -43,4 +43,8 @@ Building production systems used by thousands of users.
 - **[LinkedIn](https://www.linkedin.com/in/jakub-vantuch/)**
 - **[Telegram](https://t.me/turnix)**
 
-👉 [Schedule a call to discuss your project](https://calendly.com/jakubvantuch/free-consultation-call)
+<p align="center">
+  <a href="https://calendly.com/jakubvantuch/free-consultation-call">
+    <strong>Schedule a call to discuss your project</strong>
+  </a>
+</p>
