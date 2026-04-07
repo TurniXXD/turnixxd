@@ -1,5 +1,5 @@
 # Jakub Vantuch
-Building production systems used by thousands of users across multiple projects.
+Building production systems used by thousands of users.
 
 ## 🛠 Tech stack
 - Next.js / React / TypeScript
