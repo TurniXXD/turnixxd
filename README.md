@@ -36,7 +36,7 @@ Building production systems used by thousands of users across multiple projects.
 
 ## Currently
 - Open to part-time roles and freelance projects
-- Building custom tools and SaaS MVPs
+- Building custom tools and SaaS
 
 ## Contact me
 - **[contact@vantuch.dev](mailto:contact@vantuch.dev)**
