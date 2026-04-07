@@ -44,7 +44,7 @@ Building production systems used by thousands of users.
 - **[Telegram](https://t.me/turnix)**
 
 <p align="center">
-  <a href="https://calendly.com/jakubvantuch/free-consultation-call">
+  👉 <a href="https://calendly.com/jakubvantuch/free-consultation-call">
     <strong>Schedule a call to discuss your project</strong>
   </a>
 </p>
