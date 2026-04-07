@@ -14,22 +14,22 @@ Building production systems used by thousands of users across multiple projects.
 - Automate workflows and backend processes
 
 ## 🏢 Projects I've contributed to
-- [robe](https://www.robe.cz)
+- [Robe](https://www.robe.cz)
   - Large-scale CMS-driven website
   - Refactored frontend architecture to improve maintainability and scalability
-- [kinedok](https://kinedok.net)
+- [Kinedok](https://kinedok.net)
   - International event platform
   - Improved application structure and increased platform stability
-- [revizio](https://www.revizio.app)
+- [Revizio](https://www.revizio.app)
   - SaaS platform for revision management
   - Built template editor and frontend architecture for custom workflows
-- [my213](https://www.my213.cz/)
+- [My213](https://www.my213.cz/)
   - Internal system, web and mobile app
   - Implemented UI components, handled complex data flows, and integrated Bank iD authorization
 - [Ondrášek](https://www.ondrasek.cz/)
   - Presentation web and CMS
   - Developed frontend and integrated CMS content structure
-- [seedr](https://www.prorocketeers.com/startups/seedr)
+- [Seedr](https://www.prorocketeers.com/startups/seedr)
   - Web application
   - Implemented frontend logic and API integrations
 
